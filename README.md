@@ -15,7 +15,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
-3. If not working
+3. If not working then run it again when done installing
    ```bash
    npm install -D babel-plugin-react-compiler@rc
    ```
